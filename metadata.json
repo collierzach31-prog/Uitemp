@@ -1,0 +1,5 @@
+{
+  "name": "Bunker Box UI Simulator",
+  "description": "A high-fidelity React prototype of an 800x480 arcade-style boxing sensor interface, featuring neon aesthetics, CRT effects, and touch-responsive menus.",
+  "requestFramePermissions": []
+}
